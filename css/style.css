@@ -14,3 +14,10 @@ body {
 .row {
   clear: both;
 }
+
+.col {
+  float: left;
+  width: 60px;
+  margin-left: 20px;
+  background: rgb(255, 150, 150);
+}
